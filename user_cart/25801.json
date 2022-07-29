@@ -8,14 +8,6 @@
             "unitCost": 15200,
             "currency": "USD",
             "image": "img/prod50924_1.jpg"
-        },
-        {
-            "id": 50744,
-            "name": "Bicicleta",
-            "count": 2,
-            "unitCost": 10999,
-            "currency": "UYU",
-            "image": "img/prod50744_1.jpg"
         }
     ]
 }
